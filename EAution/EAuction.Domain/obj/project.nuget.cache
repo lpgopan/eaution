@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6dUAmqkpCZaWVsicpshO4aAUlPkayTzzb5MfsT6dxwqFksiTEroMtbJw8nUUFAQBWm2WC5WUa1VNdtXMZCSDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cogdotnet726\\Downloads\\EAution\\EAuction.Domain\\EAuction.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cogdotnet726\\.nuget\\packages\\mongodb.bson\\2.15.0\\mongodb.bson.2.15.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet726\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

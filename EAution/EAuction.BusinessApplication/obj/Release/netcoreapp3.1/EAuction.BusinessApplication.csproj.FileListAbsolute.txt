@@ -1,0 +1,13 @@
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\bin\Release\netcoreapp3.1\EAuction.BusinessApplication.deps.json
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\bin\Release\netcoreapp3.1\EAuction.BusinessApplication.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\bin\Release\netcoreapp3.1\EAuction.BusinessApplication.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\bin\Release\netcoreapp3.1\EAuction.Domain.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\bin\Release\netcoreapp3.1\EAuction.Domain.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.csproj.AssemblyReference.cache
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.AssemblyInfoInputs.cache
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.AssemblyInfo.cs
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.BusinessApplication\obj\Release\netcoreapp3.1\EAuction.BusinessApplication.csproj.CopyComplete

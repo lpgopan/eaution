@@ -1,0 +1,15 @@
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.Persistance.deps.json
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.Persistance.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.Persistance.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.BusinessApplication.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.Domain.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.BusinessApplication.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\bin\Release\netcoreapp3.1\EAuction.Domain.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.csproj.AssemblyReference.cache
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.AssemblyInfoInputs.cache
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.AssemblyInfo.cs
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.dll
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.pdb
+C:\Users\cogdotnet726\Downloads\EAution\EAuction.Persistance\obj\Release\netcoreapp3.1\EAuction.Persistance.csproj.CopyComplete
